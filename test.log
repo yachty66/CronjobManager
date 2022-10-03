@@ -1,0 +1,4 @@
+  File "/Users/maxhager/Projects2022/CronjobManager/test.py", line 6
+    
+                                ^
+SyntaxError: unexpected EOF while parsing
