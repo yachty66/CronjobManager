@@ -14,3 +14,11 @@ fatal: pathspec '"/Users/maxhager/Projects2022/MaxBook/converter.py" "/Users/max
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 hallo
+fatal: pathspec '"/Users/maxhager/Projects2022/MaxBook/converter.py" "/Users/maxhager/Projects2022/MaxBook/index.html" "/Users/maxhager/Projects2022/MaxBook/home.md" "/Users/maxhager/Projects2022/MaxBook/README.md" "/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.html" "/Users/maxhager/Projects2022/MaxBook/DailyMe/images/"' did not match any files
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+hallo
+fatal: pathspec '"/Users/maxhager/Projects2022/MaxBook/converter.py" "/Users/maxhager/Projects2022/MaxBook/index.html" "/Users/maxhager/Projects2022/MaxBook/home.md" "/Users/maxhager/Projects2022/MaxBook/README.md" "/Users/maxhager/Projects2022/MaxBook/DailyMe/dailyMe.html" "/Users/maxhager/Projects2022/MaxBook/DailyMe/images/"' did not match any files
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+hallo
