@@ -2,5 +2,5 @@
 @reboot /usr/local/bin/python3 /Users/maxhager/Projects2022/PythonWorkflowScripts/ShortcutManager/shortcuts.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
 0 0 * * SUN /usr/local/bin/python3 /Users/maxhager/Projects2022/PythonWorkflowScripts/deleteDownloads.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
 0 0 * * SUN /usr/local/bin/python3 /Users/maxhager/Projects2022/PythonWorkflowScripts/deleteScreenshots.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
-* * * * * /usr/local/bin/python3 /Users/maxhager/Projects2022/MaxBook/getPapers.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
-* * * * * /usr/local/bin/python3 /Users/maxhager/Projects2022/MaxBook/converter.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
+#* * * * * /usr/local/bin/python3 /Users/maxhager/Projects2022/MaxBook/getPapers.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1
+#* * * * * /usr/local/bin/python3 /Users/maxhager/Projects2022/MaxBook/converter.py >> /Users/maxhager/Projects2022/CronjobManager/cronjob.log 2>&1

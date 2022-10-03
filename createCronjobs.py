@@ -10,6 +10,7 @@ Notes:
     clean screens and downloads every sunday 12 
     update paper every day at 12
     
+    if print star
     
     
 - [x] create python file which adds a line with a string to a txt file when executed 
