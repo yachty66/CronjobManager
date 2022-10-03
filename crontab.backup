@@ -1,0 +1,1 @@
+* * * * * crontab -l > /Users/maxhager/Projects2022/Crontab/crontab.backup
